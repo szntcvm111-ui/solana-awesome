@@ -103,10 +103,10 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Bankrun                            | Framework | Kevin Heavey  | [Link](https://kevinheavey.github.io/solana-bankrun/)                  | A lightweight, flexible testing framework written in Node.js for Solana programs                          |
 | LiteSVM                            | Framework | LiteSVM Team  | [Link](https://github.com/LiteSVM/litesvm)                             | A fast, lightweight testing library that creates an in-process Solana VM optimized for program developers |
 | Mollusk                            | Framework | Joe Caulfield | [Link](https://github.com/buffalojoec/mollusk)                         | A small and fast SVM program test harness                                                                 |
+| Trident                            | Framework | Ackee Blockchain | [Link](https://github.com/Ackee-Blockchain/trident)                 | First and only fuzzing framework for Solana smart contracts with manually-guided fuzzing, flow-based sequences, and property-based testing |
 | solana-program-test                | Framework | Anza          | [Link](https://crates.io/crates/solana-program-test)                   | A Rust-based testing framework centered around the BanksClient                                            |
 | solana-test-framework              | Framework | Halborn       | [Link](https://github.com/halbornteam/solana-test-framework)           | An extension of **solana-program-test** developed by Halborn                                              |
-| Testing With Anchor                | Video     | Harry Papacharissiou, Chainlink | [Link](https://www.youtube.com/live/_9xS3ZvDIIU?si=YNJnfEMlGCKRFT6W)   | A livestream given for the Chainlink Spring 2022 Hackathon on testing Anchor programs                      |
-
+| Testing With Anchor                | Video     | Harry Papacharissiou, Chainlink | [Link](https://www.youtube.com/live/_9xS3ZvDIIU?si=YNJnfEMlGCKRFT6W)   | A livestream given for the Chainlink Spring 2022 Hackathon on testing Anchor programs   |
 | Zest                               | Framework | LimeChain | [Link](https://github.com/LimeChain/zest)                                  | Code coverage CLI tool for Solana program                                                                 |                                                 
 ### Program Security
 
@@ -154,6 +154,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Umi                    | Framework | Metaplex          | [Link](https://github.com/metaplex-foundation/umi)                     | A Solana framework for JavaScript clients                                                                                              |
 | Wallet Adapter         | Framework | Anza              | [Link](https://github.com/anza-xyz/wallet-adapter)                     | Modular TypeScript wallet adapters and components for Solana applications                                                              |
 | Rust Wallet Adapter    | Framework | 448-OG            | [Link](https://github.com/JamiiDao/SolanaWalletAdapter)                | A Rust library implementing the wallet-adapter standard with templates for Dioxus, Yew and Sycamore |
+| Solana VS Code Extension | Tool | Ackee Blockchain | [Link](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.solana) | First VS Code extension for Solana with real-time security analysis (9 detectors) and Trident fuzz coverage visualization |
 
 ### Explorers
 
