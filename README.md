@@ -126,7 +126,8 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | helius-sdk      | SDK   | Helius    | [Link](https://www.npmjs.com/package/helius-sdk/v/latest)      | A Helius Node.js SDK for building the future of Solana                  |
 | solana-program  | Crate | Anza      | [Link](https://crates.io/crates/solana-program)                | The base library for all Solana on-chain Rust programs                  |
 | solana-sdk      | Crate | Anza      | [Link](https://crates.io/crates/solana-sdk)                    | The official Solana SDK to write client-side applications in Rust       |
-| @solana/web3.js | SDK   | Anza      | [Link](https://www.npmjs.com/package/@solana/web3.js/v/latest) | A JavaScript client for Solana, built on top of the Solana JSON RPC API |
+| @solana/kit     | SDK   | Anza      | [Link](https://github.com/anza-xyz/kit)                        | The preferred JavaScript/TypeScript SDK for Solana (successor to web3.js 2.x) |
+| @solana/web3.js | SDK   | Anza      | [Link](https://www.npmjs.com/package/@solana/web3.js/v/latest) | Legacy JavaScript client for Solana JSON RPC API (1.x)                  |
 
 ### Dev Tooling
 
@@ -139,7 +140,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | create-solana-dapp     | Tool      | Solana Foundation | [Link](https://github.com/solana-developers/create-solana-dapp)        | CLI for creating Solana dApps on the fly                                                                                               |
 | Dreamcast              | Framework | Joey Meere        | [Link](https://github.com/joeymeere/dreamcast)                         | Fetch and interact with Anchor programs in minutes                                                                                     |
 | Gill                   | Framework | Solana Foundation | [Link](https://github.com/solana-foundation/gill)                      | JavaScript/TypeScript client library for interacting with the Solana blockchain                                                        |
-| Kite                   | Framework | Helius            | [Link](https://github.com/helius-labs/kite)                             | Modern TypeScript framework for @solana/web3.js 2.0                                                                                     |
+| Kite                   | Framework | Helius            | [Link](https://github.com/helius-labs/kite)                             | Modern TypeScript framework for @solana/kit (web3.js 2.x)                                                                               |
 | Kinobi                 | Framework | Metaplex          | [Link](https://github.com/metaplex-foundation/kinobi)                  | Generate powerful clients for your Solana programs                                                                                     |
 | Lighthouse             | Framework | Jac0xb            | [Link](https://github.com/Jac0xb/lighthouse)                           | The Solana assertion protocol                                                                                                          |
 | Metaboss               | Tool      | Metafrost         | [Link](https://github.com/samuelvanderwaal/metaboss)                   | The Metaplex NFT-standard Swiss Army Knife tool                                                                                        |
